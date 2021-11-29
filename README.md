@@ -1,8 +1,9 @@
 # echarts-map
 
-包含echarts用到的map地图文件
+包含 echarts 用到的 map 地图文件
 
-文件目录
+## 文件目录
+
 ```bash
 .
 ├── OutInquiry-mapData.js
@@ -88,12 +89,17 @@
         │   └── zhejiang.json
         └── world.json
 ```
-文件说明：
-1、echarts-4.2.1-rc1-map是echarts仓库下载的地图文件,版本号：4.2.1-rc1
+
+## 文件说明：
+
+1、echarts-4.2.1-rc1-map 是 echarts 仓库下载的地图文件,版本号：4.2.1-rc1
 
 [https://github.com/apache/echarts](https://github.com/apache/echarts)
 
-2、OutInquiry-mapData.js 是一份未编码压缩的js文件，来自项目：
+2、OutInquiry-mapData.js 是一份未编码压缩的 js 文件，来自项目：
 
 [https://github.com/HilaryHA/OutInquiry](https://github.com/HilaryHA/OutInquiry)
 
+## 说明：
+
+echarts 仓库下载的 js 和 json 文件是压缩过的，所以看起来像是乱码，不过不影响使用。
