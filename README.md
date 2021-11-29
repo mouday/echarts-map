@@ -2,6 +2,10 @@
 
 包含 echarts 用到的 map 地图文件
 
+- github [https://github.com/mouday/echarts-map](https://github.com/mouday/echarts-map)
+
+- gitee: [https://gitee.com/mouday/echarts-map](https://gitee.com/mouday/echarts-map)
+
 ## 文件目录
 
 ```bash
