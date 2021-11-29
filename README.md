@@ -107,3 +107,21 @@
 ## 说明：
 
 echarts 仓库下载的 js 和 json 文件是压缩过的，所以看起来像是乱码，不过不影响使用。
+
+## 下载使用
+
+方式一：可以直接下载整个仓库
+
+方式二：按需下载单个文件
+
+eg: 源地址下载
+```
+wget https://raw.githubusercontent.com/mouday/echarts-map/master/echarts-4.2.1-rc1-map/js/china.js
+```
+
+镜像下载
+```
+wget https://ghproxy.com/https://raw.githubusercontent.com/mouday/echarts-map/master/echarts-4.2.1-rc1-map/js/china.js
+
+wget https://cdn.jsdelivr.net/gh/mouday/echarts-map@master/echarts-4.2.1-rc1-map/js/china.js
+```
