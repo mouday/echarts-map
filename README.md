@@ -14,7 +14,7 @@
 ├── OutInquiry-mapData.js
 ├── echarts-for-weixin
 │    └── js
-│        └── china.js
+│        └── wx-china.js
 └── echarts-4.2.1-rc1-map
     ├── js
     │   ├── china-contour.js
