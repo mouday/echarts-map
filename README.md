@@ -10,8 +10,11 @@
 
 ```bash
 .
-├── OutInquiry-mapData.js
 ├── README.md
+├── OutInquiry-mapData.js
+├── echarts-for-weixin
+│    └── js
+│        └── china.js
 └── echarts-4.2.1-rc1-map
     ├── js
     │   ├── china-contour.js
@@ -100,7 +103,9 @@
 
 [https://github.com/apache/echarts](https://github.com/apache/echarts)
 
-2、OutInquiry-mapData.js 是一份未编码压缩的 js 文件，来自项目：
+2、echarts-for-weixin 是基于echarts/js/map.js, 仿照[echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) 改造的地图数据
+
+3、OutInquiry-mapData.js 是一份未编码压缩的 js 文件，来自项目：
 
 [https://github.com/HilaryHA/OutInquiry](https://github.com/HilaryHA/OutInquiry)
 
